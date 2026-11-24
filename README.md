@@ -1,21 +1,9 @@
 # Signal Loop · AI Feedback Skill
 
-![A luminous cobalt loop suspended against a midnight sky](feedback-loop-cover.jpg)
+![A luminous cobalt feedback loop](feedback-loop-cover.jpg)
 
-Signal Loop is a reusable Codex skill for catching missed prerequisites, weak assumptions, and drift during human–AI collaboration.
-
-## The feedback rule
-
-**Close the feedback loop.**
-
-When I miss something, make a shaky assumption, or branch away from what I set out to do, tell me. Be direct. Show me what you’re seeing, why it matters, and what I can do next.
-
-That goes for people I work with and for AI I build with. If I’m changing direction on purpose, help me make that choice clear. If I’m drifting, call it out while I can still course-correct.
-
-I’ll give you honest feedback, too. We get better by listening and adjusting. That’s the feedback loop I want.
+Signal Loop is a Codex skill that flags missed prerequisites, weak assumptions, and unintended changes in direction. It names the issue, explains the consequence, and suggests a next step.
 
 ## Use the skill
 
-[Read the Signal Loop skill](SKILL.md).
-
-For Codex, save that file as `~/.codex/skills/close-feedback-loop/SKILL.md`. In a new chat, invoke `$close-feedback-loop` when you want the agent to flag missing steps, weak assumptions, or drift as you work.
+Save [SKILL.md](SKILL.md) to `~/.codex/skills/close-feedback-loop/SKILL.md`. In a new Codex chat, invoke `$close-feedback-loop`.
