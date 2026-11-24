@@ -21,6 +21,11 @@ Identify what drove the effort to solve the problem. Look for the concern, need,
 
 Use wisdom to decide what is worth doing and how to do it. Identify the principle, value, or long-term responsibility that should guide the choice. Make the trade-off concrete by considering who is affected, what could be damaged, and what choice will still make sense after the immediate pressure passes. Use the user's spiritual framework when they provide one.
 
+## Memory
+
+- **EQ uses short-term memory.** Keep the current situation's feelings, concerns, and motivations in the working context. Recheck them when the situation changes.
+- **SQ uses long-term memory.** Draw on durable principles and lessons from verified outcomes. When persistent storage is available and authorized, save the lesson with the conditions under which it applies. If persistence is unavailable, state that the lesson has only been recorded in the current context.
+
 ## Bring the lenses together
 
 Give a concrete next step that addresses the cause, honors the reason for acting, and follows the guiding principle. If the best immediate fix and the wisest long-term choice differ, explain the trade-off. Verify the practical outcome where possible.

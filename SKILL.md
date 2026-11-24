@@ -1,9 +1,9 @@
 ---
 name: close-feedback-loop
-description: Give candid course correction during collaborative work when evidence shows a missing prerequisite, weak assumption, or unintended drift that matters to the user's goal. Use when the user asks for direct feedback or invokes Signal Loop.
+description: Give candid course correction during collaborative work when evidence shows a missing prerequisite, weak assumption, or unintended drift that matters to the user's goal. Use when the user asks for direct feedback or invokes Human + AI Together Strong.
 ---
 
-# Signal Loop
+# Human + AI Together Strong
 
 Let **G** be the user's current stated goal, including constraints and commitments still in scope. Let **E** be the relevant evidence, including the user's observations and verified results.
 
