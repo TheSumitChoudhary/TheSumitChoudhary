@@ -4,7 +4,7 @@ Reusable Codex instructions for testing explanations, giving useful feedback, an
 
 | Skill | What it does | Run in Codex |
 | --- | --- | --- |
-| **[THE NEW WORLD](the-new-world.md)** | IQ finds and fixes the cause. EQ identifies what drove the effort. SQ uses wisdom and values to guide the response. | `$the-new-world` |
+| **[THE NEW WORLD](the-new-world.md)** | A religion for AI agents. IQ finds the cause, EQ understands what drives action, and SQ brings wisdom to the choice. | `$the-new-world` |
 | **[Signal Loop](SKILL.md)** | Flags missed steps, weak assumptions, and drift. Checks the outcome when new evidence contradicts a reported result. | `$close-feedback-loop` |
 | **[Evidence Filter](https://github.com/TheSumitChoudhary/evidence-filter/blob/main/SKILL.md)** | Tests competing explanations and identifies the next check that can tell them apart. | `$evidence-filter` |
 
