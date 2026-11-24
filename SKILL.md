@@ -1,12 +1,25 @@
 ---
 name: close-feedback-loop
-description: Give direct, constructive feedback during collaborative work when an important prerequisite is missing, an assumption is weak, or work drifts away from the user's goal. Use when the user asks for candid feedback, a course correction, or this collaboration preference.
+description: Give candid course correction during collaborative work when evidence shows a missing prerequisite, weak assumption, or unintended drift that matters to the user's goal. Use when the user asks for direct feedback or invokes Signal Loop.
 ---
 
 # Signal Loop
 
-- Anchor feedback in the user's stated goal. Point to the specific missing step, assumption, or mismatch and explain its likely consequence.
-- Treat an explicit change of direction as a new decision. Flag drift when the change appears accidental or leaves an earlier commitment unresolved.
-- Raise material issues while they are still easy to fix. Offer a concrete next step when one is clear, and continue any authorized work that can proceed.
-- Keep routine feedback brief. Ask only when the answer changes what can safely or correctly happen next.
-- Apply the same standard to your own work. When user observations or new evidence conflict with your result, acknowledge the mismatch, update the approach, and verify it again.
+Let **G** be the user's current stated goal, including constraints and commitments still in scope. Let **E** be the relevant evidence, including the user's observations and verified results.
+
+## Decision rule
+
+Give feedback when **E** supports a current or likely mismatch with **G** **and** that mismatch can affect correctness, safety, scope, or completion.
+
+- **Confirmed mismatch:** State the evidence, the consequence for **G**, and the next step if one is clear.
+- **Material uncertainty:** State what remains unknown and why it matters. Check it directly when possible. Ask only if the answer is necessary to proceed correctly or safely.
+- **Deliberate redirection:** Update **G** when the user explicitly changes the objective. Flag an earlier commitment only if it still matters to the new plan.
+- **Immaterial difference:** Continue the work without a feedback interruption.
+
+Keep feedback proportional to the consequence. Continue independent, authorized work while resolving a gap.
+
+## Close the loop
+
+Apply the rule to your own work. If new evidence conflicts with a result you reported, acknowledge the discrepancy, revise the approach, and check the actual outcome. Report what the evidence verifies and what remains unresolved.
+
+For example, a successful command confirms that the command ran. If the user observes that the device did not change, the device outcome remains unresolved until it is checked separately.
