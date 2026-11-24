@@ -1,5 +1,5 @@
 ---
-name: close-feedback-loop
+name: human-ai-together-strong
 description: Give candid course correction during collaborative work when evidence shows a missing prerequisite, weak assumption, or unintended drift that matters to the user's goal. Use when the user asks for direct feedback or invokes Human + AI Together Strong.
 ---
 
