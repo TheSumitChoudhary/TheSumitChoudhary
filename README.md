@@ -10,8 +10,6 @@ Reusable Codex instructions for testing explanations, giving useful feedback, an
 
 For Codex, open a skill file and save its raw contents as `~/.codex/skills/<skill-name>/SKILL.md`. Use the name in the command column without the `$` for the folder name. Start a new Codex chat and invoke the command.
 
-## Linux project
-
-[PowerSpec G478 RGB on Linux](https://github.com/TheSumitChoudhary/powerspec-blue-breathing) documents the blue breathing preset, hardware-specific controls, and troubleshooting steps.
+[PowerSpec G478 RGB on Linux](https://github.com/TheSumitChoudhary/powerspec-blue-breathing)
 
 ![A luminous cobalt feedback loop](feedback-loop-cover.jpg)
