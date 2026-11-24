@@ -12,8 +12,10 @@ That goes for people I work with and for AI I build with. If I’m changing dire
 
 I’ll give you honest feedback, too. We get better by listening and adjusting. That’s the feedback loop I want.
 
-## Use it as an AI skill
+## Signal Loop · AI Feedback Skill
 
-[Read the Close the Feedback Loop skill](SKILL.md).
+[Read the Signal Loop skill](SKILL.md).
+
+Signal Loop is a reusable Codex skill for constructive feedback, catching weak assumptions, and getting a project back on track when it drifts.
 
 For Codex, save that file as `~/.codex/skills/close-feedback-loop/SKILL.md`. In a new chat, invoke `$close-feedback-loop` when you want the agent to flag missing steps, weak assumptions, or drift as you work.
